@@ -1,4 +1,4 @@
-# Student Dropout Risk Scoring System
+# Student Dropout Risk Prediction System
 
 A hybrid system that scores each student's dropout risk (Low, Medium, High) from attendance, test score and fee burden, using a transparent rule-based score, a Random Forest classifier trained on top of it, and short AI-written explanations of why a student is at risk.
 
